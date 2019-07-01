@@ -1,6 +1,6 @@
-n=int(input())
-sum1 = 0
-while(n > 0):
-    sum1=sum1+n
-    n=n-1
-print(sum1)
+v=int(input())
+sum2 = 0
+while(v > 0):
+    sum2=sum2+v
+    v=v-1
+print(sum2)
