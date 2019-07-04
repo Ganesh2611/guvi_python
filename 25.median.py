@@ -1,0 +1,5 @@
+sa=int(input())
+l=list(map(int,input().split()[:sa]))
+l.sort()
+ln=int((len(l))/2)
+print(l[ln])
